@@ -1,6 +1,6 @@
 # Webpack Boilerplate
 
-Frontend environment for building JavaScript applications
+Test Frontend environment for building JavaScript applications
 
 Includes the following features...
 
